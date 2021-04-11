@@ -1,3 +1,3 @@
 # Playing The Game
 
-## `Return Tommorrow at 9:30`
+Add some instructions about how to run this in the command prompt/console.
